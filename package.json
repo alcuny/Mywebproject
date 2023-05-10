@@ -7,7 +7,6 @@
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
-
   },
   "author": "Albert Cuny",
   "license": "MIT",
